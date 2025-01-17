@@ -1,13 +1,13 @@
 use smash::{lib::lua_const::{FIGHTER_STATUS_KIND_SPECIAL_N, FIGHTER_STATUS_KIND_FALL, FIGHTER_STATUS_KIND_SPECIAL_S, FIGHTER_STATUS_KIND_SPECIAL_LW, FIGHTER_STATUS_KIND_SPECIAL_HI, FIGHTER_STATUS_KIND_FALL_SPECIAL, SITUATION_KIND_GROUND, SITUATION_KIND_AIR}, app::lua_bind::StatusModule};
 use smashline::{L2CFighterCommon, Agent, Main};
 
-static mut CAN_B: bool = true;
-static mut CAN_SB: bool = true;
-static mut CAN_UB: bool = true;
-static mut CAN_DB: bool = true;
-
 unsafe extern "C" fn global_fighter_frame(fighter: &mut L2CFighterCommon) {
     unsafe {
+        static mut CAN_B: bool = true;
+        static mut CAN_SB: bool = true;
+        static mut CAN_UB: bool = true;
+        static mut CAN_DB: bool = true;        
+        
         let mut i: u32 = 0;        
         while i < 5{
             if StatusModule::status_kind(fighter.module_accessor) == *FIGHTER_STATUS_KIND_SPECIAL_N && CAN_B == false && StatusModule::situation_kind(fighter.module_accessor) == *SITUATION_KIND_AIR{

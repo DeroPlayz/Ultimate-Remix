@@ -1,0 +1,16 @@
+C:\Users\DeroP\Desktop\SSBU Mod Workspace\UltMix\target\aarch64-skyline-switch\debug\deps\libskyline-293365c899cd31a0.rmeta: C:\Users\DeroP\.cargo\git\checkouts\skyline-rs-652bad0610bd03a8\ba4706a\src\lib.rs C:\Users\DeroP\.cargo\git\checkouts\skyline-rs-652bad0610bd03a8\ba4706a\src\unix_alloc.rs C:\Users\DeroP\.cargo\git\checkouts\skyline-rs-652bad0610bd03a8\ba4706a\src\hooks.rs C:\Users\DeroP\.cargo\git\checkouts\skyline-rs-652bad0610bd03a8\ba4706a\src\logging.rs C:\Users\DeroP\.cargo\git\checkouts\skyline-rs-652bad0610bd03a8\ba4706a\src\patching.rs C:\Users\DeroP\.cargo\git\checkouts\skyline-rs-652bad0610bd03a8\ba4706a\src\text_iter.rs C:\Users\DeroP\.cargo\git\checkouts\skyline-rs-652bad0610bd03a8\ba4706a\src\error.rs C:\Users\DeroP\.cargo\git\checkouts\skyline-rs-652bad0610bd03a8\ba4706a\src\nro.rs C:\Users\DeroP\.cargo\git\checkouts\skyline-rs-652bad0610bd03a8\ba4706a\src\info.rs C:\Users\DeroP\.cargo\git\checkouts\skyline-rs-652bad0610bd03a8\ba4706a\src\extern_alloc.rs C:\Users\DeroP\.cargo\git\checkouts\skyline-rs-652bad0610bd03a8\ba4706a\src\build.rs C:\Users\DeroP\.cargo\git\checkouts\skyline-rs-652bad0610bd03a8\ba4706a\src\nn.rs
+
+C:\Users\DeroP\Desktop\SSBU Mod Workspace\UltMix\target\aarch64-skyline-switch\debug\deps\skyline-293365c899cd31a0.d: C:\Users\DeroP\.cargo\git\checkouts\skyline-rs-652bad0610bd03a8\ba4706a\src\lib.rs C:\Users\DeroP\.cargo\git\checkouts\skyline-rs-652bad0610bd03a8\ba4706a\src\unix_alloc.rs C:\Users\DeroP\.cargo\git\checkouts\skyline-rs-652bad0610bd03a8\ba4706a\src\hooks.rs C:\Users\DeroP\.cargo\git\checkouts\skyline-rs-652bad0610bd03a8\ba4706a\src\logging.rs C:\Users\DeroP\.cargo\git\checkouts\skyline-rs-652bad0610bd03a8\ba4706a\src\patching.rs C:\Users\DeroP\.cargo\git\checkouts\skyline-rs-652bad0610bd03a8\ba4706a\src\text_iter.rs C:\Users\DeroP\.cargo\git\checkouts\skyline-rs-652bad0610bd03a8\ba4706a\src\error.rs C:\Users\DeroP\.cargo\git\checkouts\skyline-rs-652bad0610bd03a8\ba4706a\src\nro.rs C:\Users\DeroP\.cargo\git\checkouts\skyline-rs-652bad0610bd03a8\ba4706a\src\info.rs C:\Users\DeroP\.cargo\git\checkouts\skyline-rs-652bad0610bd03a8\ba4706a\src\extern_alloc.rs C:\Users\DeroP\.cargo\git\checkouts\skyline-rs-652bad0610bd03a8\ba4706a\src\build.rs C:\Users\DeroP\.cargo\git\checkouts\skyline-rs-652bad0610bd03a8\ba4706a\src\nn.rs
+
+C:\Users\DeroP\.cargo\git\checkouts\skyline-rs-652bad0610bd03a8\ba4706a\src\lib.rs:
+C:\Users\DeroP\.cargo\git\checkouts\skyline-rs-652bad0610bd03a8\ba4706a\src\unix_alloc.rs:
+C:\Users\DeroP\.cargo\git\checkouts\skyline-rs-652bad0610bd03a8\ba4706a\src\hooks.rs:
+C:\Users\DeroP\.cargo\git\checkouts\skyline-rs-652bad0610bd03a8\ba4706a\src\logging.rs:
+C:\Users\DeroP\.cargo\git\checkouts\skyline-rs-652bad0610bd03a8\ba4706a\src\patching.rs:
+C:\Users\DeroP\.cargo\git\checkouts\skyline-rs-652bad0610bd03a8\ba4706a\src\text_iter.rs:
+C:\Users\DeroP\.cargo\git\checkouts\skyline-rs-652bad0610bd03a8\ba4706a\src\error.rs:
+C:\Users\DeroP\.cargo\git\checkouts\skyline-rs-652bad0610bd03a8\ba4706a\src\nro.rs:
+C:\Users\DeroP\.cargo\git\checkouts\skyline-rs-652bad0610bd03a8\ba4706a\src\info.rs:
+C:\Users\DeroP\.cargo\git\checkouts\skyline-rs-652bad0610bd03a8\ba4706a\src\extern_alloc.rs:
+C:\Users\DeroP\.cargo\git\checkouts\skyline-rs-652bad0610bd03a8\ba4706a\src\build.rs:
+C:\Users\DeroP\.cargo\git\checkouts\skyline-rs-652bad0610bd03a8\ba4706a\src\nn.rs:

@@ -11,16 +11,16 @@ unsafe extern "C" fn global_fighter_frame(fighter: &mut L2CFighterCommon) {
         let mut i: u32 = 0;        
         while i < 5{
             if StatusModule::status_kind(fighter.module_accessor) == FIGHTER_STATUS_KIND_SPECIAL_N && CAN_B == false && StatusModule::situation_kind(fighter.module_accessor) == *SITUATION_KIND_AIR{
-                StatusModule::change_status_request(fighter.module_accessor, *FIGHTER_STATUS_KIND_FALL, true);
+                StatusModule::change_status_force(fighter.module_accessor, *FIGHTER_STATUS_KIND_FALL, true);
             }
             if StatusModule::status_kind(fighter.module_accessor) == FIGHTER_STATUS_KIND_SPECIAL_S && CAN_SB == false && StatusModule::situation_kind(fighter.module_accessor) == *SITUATION_KIND_AIR{
-                StatusModule::change_status_request(fighter.module_accessor, *FIGHTER_STATUS_KIND_FALL, true);
+                StatusModule::change_status_force(fighter.module_accessor, *FIGHTER_STATUS_KIND_FALL, true);
             }
             if StatusModule::status_kind(fighter.module_accessor) == FIGHTER_STATUS_KIND_SPECIAL_HI && CAN_UB == false && StatusModule::situation_kind(fighter.module_accessor) == *SITUATION_KIND_AIR{
-                StatusModule::change_status_request(fighter.module_accessor, *FIGHTER_STATUS_KIND_FALL, true);
+                StatusModule::change_status_force(fighter.module_accessor, *FIGHTER_STATUS_KIND_FALL, true);
             }
             if StatusModule::status_kind(fighter.module_accessor) == FIGHTER_STATUS_KIND_SPECIAL_LW && CAN_DB == false && StatusModule::situation_kind(fighter.module_accessor) == *SITUATION_KIND_AIR{
-                StatusModule::change_status_request(fighter.module_accessor, *FIGHTER_STATUS_KIND_FALL, true);
+                StatusModule::change_status_force(fighter.module_accessor, *FIGHTER_STATUS_KIND_FALL, true);
             }
             if StatusModule::situation_kind(fighter.module_accessor) == *SITUATION_KIND_GROUND{CAN_B = true;   CAN_SB = true;  CAN_UB = true;  CAN_DB = true;}
 

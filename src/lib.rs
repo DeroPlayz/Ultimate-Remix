@@ -13,4 +13,4 @@ mod usosf;
 pub fn main() {
     ganon::install();
     usosf::install();
-}s
+}

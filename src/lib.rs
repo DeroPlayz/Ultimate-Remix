@@ -7,10 +7,12 @@
 )]
 
 mod ganon;
-mod usosf;
+mod purin;
+// mod usosf;
 
 #[skyline::main(name = "plugin.nro")]
 pub fn main() {
     ganon::install();
-    usosf::install();
+    purin::install();
+    // usosf::install();
 }

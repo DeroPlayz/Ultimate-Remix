@@ -1,3 +1,5 @@
+// USOSF originally stood for Up-Special-Only-Special-Fall, but now I'm planning to make every special fall move act like Snake's up special; you can act out of it, but you can't do it again until you flinch/hit the ground.
+
 use smash::{lib::lua_const::{FIGHTER_STATUS_KIND_SPECIAL_N, FIGHTER_STATUS_KIND_FALL, FIGHTER_STATUS_KIND_SPECIAL_S, FIGHTER_STATUS_KIND_SPECIAL_LW, FIGHTER_STATUS_KIND_SPECIAL_HI, FIGHTER_STATUS_KIND_FALL_SPECIAL, SITUATION_KIND_GROUND, SITUATION_KIND_AIR}, app::lua_bind::StatusModule};
 use smashline::{L2CFighterCommon, Agent, Main};
 

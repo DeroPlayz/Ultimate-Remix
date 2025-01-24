@@ -22,5 +22,8 @@ No that's actually all I have to say it's 3:02 a.m. as of writing this and I ain
     - Replace Spin Charge with the Bubble Shield.
       - When used, grants Sonic the Bubble Shield.
         - This charge will passively grant him super armor with 40 HP (Once the armor has taken 40 damage, it breaks.)
-        -  down b repeat
-    - Replace Spin Charge with the Blue Shield.
+        - If Down Special is inputted with the Bubble Shield active it will perform an attack:
+          - If grounded when using the Bubble Shield Attack, idk
+          - If airborne, you will plummet to the ground with a shockwave, launching enemies at a low, horizontal angle.
+    - Forward Aerial will be replaced with the Sonic Eagle, using Snake's Forward Aerial animation.
+    - 

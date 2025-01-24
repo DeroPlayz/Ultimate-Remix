@@ -13,3 +13,14 @@ No that's actually all I have to say it's 3:02 a.m. as of writing this and I ain
     -  Sing actually put airborne opponents to sleep.
 ## Todo:
   - Replace every character's most useless move.
+  - Give Jigglypuff a better neutral special.
+  - Buff Warlock Punch.
+  - Vastly rework Sonic:
+    - Replace Spin Dash with Flame Shield.
+      - Simply shoots forward like Fox Illusion, but gives Sonic an "ember" charge.
+        - When Sonic has an ember, he can cancel any aerial into a slightly weaker version of Flame Shield.
+    - Replace Spin Charge with the Bubble Shield.
+      - When used, grants Sonic the Bubble Shield.
+        - This charge will passively grant him super armor with 40 HP (Once the armor has taken 40 damage, it breaks.)
+        -  down b repeat
+    - Replace Spin Charge with the Blue Shield.

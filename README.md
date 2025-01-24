@@ -12,10 +12,11 @@ No that's actually all I have to say it's 3:02 a.m. as of writing this and I ain
   - Jigglypuff
     -  Sing actually put airborne opponents to sleep.
 ## Todo:
-  - Replace every character's most useless move.
-  - Give Jigglypuff a better neutral special.
-  - Buff Warlock Punch.
-  - Vastly rework Sonic:
+  - Jigglypuff
+  -   Give Jigglypuff a better neutral special.
+  - Ganondorf
+  -   Buff Warlock Punch.
+  - Sonic:
     - Replace Spin Dash with Flame Shield.
       - Simply shoots forward like Fox Illusion, but gives Sonic an "ember" charge.
         - When Sonic has an ember, he can cancel any aerial into a slightly weaker version of Flame Shield.
@@ -26,4 +27,5 @@ No that's actually all I have to say it's 3:02 a.m. as of writing this and I ain
           - If grounded when using the Bubble Shield Attack, idk
           - If airborne, you will plummet to the ground with a shockwave, launching enemies at a low, horizontal angle.
     - Forward Aerial will be replaced with the Sonic Eagle, using Snake's Forward Aerial animation.
-    - 
+    - Spin Charge will be moved to Sonic's neutral special, removing Homing Attack.
+  - 
